@@ -1,0 +1,17 @@
+.bg__photo {
+    height: 100vh;
+    min-height: 366px;
+    background: url('../images/cover-photo.jpg') top center no-repeat;
+    background-size: cover;
+
+    display: flex;
+    align-items: center;
+
+    padding-left: 20px;
+}
+
+.main__title {
+    font-family: Rubik;
+    font-size: 30px;
+    color: #ffffff;
+}
